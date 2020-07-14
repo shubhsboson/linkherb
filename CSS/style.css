@@ -37,7 +37,7 @@ a{
     color:var(--color-var);
 }
 
-#bio-text{
+.bio{
     font-family: "Bree Serif";
     font-size: 18px;
     font-weight: bold;
